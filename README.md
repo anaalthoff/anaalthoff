@@ -2,7 +2,7 @@
 
 <br>🔭 Trabalho atualmente no front-end com **TypeScript** no **Vue.js**, tanto em **Option API** quanto em **Composition API**, no back-end com **#C** no **.Net** e no banco de dados com **PostgreSQL**.<br>
 <br>👩🏼‍🎓 Estou terminando o curso **técnico em Desenvolvimento de Sistemas no Senai** (2023.2) e inicializei o curso de **Tecnologia em Análise e Desenvolvimento de Sistemas na UDESC** (Universidade Estadual de Santa Catarina) (2023.2).<br>
-<br>👩🏼‍💻 Além das linguagens que trabalho hoje, no caminho desenvolvi projetos em **JavaScript**, **CSS**, **Ionic** e **React** no front-end e em **Node.js** no back-end. Ainda tive experiência em **IoT** desenvolvendo em **C++**<br>
+<br>👩🏼‍💻 Além das linguagens que trabalho hoje, no caminho desenvolvi projetos em **JavaScript**, **CSS**, **Ionic** e **React** no front-end e em **Node.js** no back-end. Ainda tive experiência em **IoT** desenvolvendo em **C++**.<br>
 <br>📫 Para entrar em contato comigo, acesse meu [LinkedIn](https://www.linkedin.com/in/anapaulaalthoff/).<br>
 
 ##
