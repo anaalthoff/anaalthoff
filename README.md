@@ -5,7 +5,7 @@
 <br>👩🏼‍💻 Além das linguagens que trabalho hoje, no caminho desenvolvi projetos em **JavaScript**, **CSS**, **Ionic** e **React** no front-end e em **Node.js** no back-end. Ainda tive experiência em **IoT** desenvolvendo em **C++** e **Java**.<br>
 <br>📫 Para entrar em contato comigo, acesse meu [LinkedIn](https://www.linkedin.com/in/anapaulaalthoff/).<br>
 
-<br>**PS: fiquei um tempo afastada do GitHub, mas estive bastante ativa no Gitlab. Trarei mais projetos para cá!**<br>
+<br>**PS: todos meus projetos estão no Gitlab da empresa, fiquei um tempo afastada do GitHub por falta de tempo. Mas trarei novos projetos para cá logo menos!**<br>
 
 ##
 
