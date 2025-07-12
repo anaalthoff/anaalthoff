@@ -1,11 +1,11 @@
 ### Olá! Eu sou a **Ana Paula Althoff** 👋
 
-<br>🔭 Trabalho atualmente como **Desenvolvedora Full Stack** e utilizo com mais frequência **TypeScript** no **Vue.js** em **Composition API** no front, **#C** no **.Net** no back, **Python** na implementação de programas que utilizam **I.A.** e **Machine Learning** e **PostgreSQL** no banco de dados.<br>
-<br>👩🏼‍🎓 **Técnica em Desenvolvimento de Sistemas no Senai** (2023.2) e cursando **Tecnologia em Análise e Desenvolvimento de Sistemas na UDESC** (Universidade Estadual de Santa Catarina) (2026.1).<br>
-<br>👩🏼‍💻 Além das linguagens que trabalho hoje, no caminho desenvolvi projetos em **JavaScript**, **CSS**, **Ionic** e **React** no front-end e em **Node.js** no back-end. Ainda tive experiência em **IoT** desenvolvendo em **C++** e **Java**.<br>
+<br>🔭 Trabalho atualmente como **Desenvolvedora Full Stack** e utilizo com mais frequência **TypeScript** no **Vue.js** em **Composition API** no front, **#C** no **.Net** no back, **Python** na implementação de programas que utilizam **I.A.** e **PostgreSQL** no banco de dados.<br>
+<br>👩🏼‍🎓 **Técnica em Desenvolvimento de Sistemas no Senai** (2023.2) e cursando **Tecnologia em Análise e Desenvolvimento de Sistemas na UDESC** (Universidade Estadual de Santa Catarina) (2026.2).<br>
+<br>👩🏼‍💻 Além das linguagens que trabalho hoje, no caminho desenvolvi projetos em **JavaScript**, **Ionic** e **React** no front-end e em **Node.js**, **Java** e **Python** com **Django** no back-end. Ainda tive experiência em **IoT** desenvolvendo em **C++**.<br>
 <br>📫 Para entrar em contato comigo, acesse meu [LinkedIn](https://www.linkedin.com/in/anapaulaalthoff/).<br>
 
-<br>**PS: todos meus projetos estão no Gitlab da empresa, fiquei um tempo afastada do GitHub por falta de tempo. Mas trarei novos projetos para cá logo menos!**<br>
+<br>PS: um dos meus e-mails principais não estava configurado e minhas contribuições não estavam aparecendo. Mas arrumei isso há pouco tempo e voltaram a aparecer constribuições.<br>
 
 ##
 
