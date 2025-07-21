@@ -5,7 +5,7 @@
 <br>👩🏼‍💻 Além das linguagens que trabalho hoje, no caminho desenvolvi projetos em **JavaScript**, **Ionic** e **React** no front-end e em **Node.js**, **Java** e **Python** com **Django** no back-end. Ainda tive experiência em **IoT** desenvolvendo em **C++**.<br>
 <br>📫 Para entrar em contato comigo, acesse meu [LinkedIn](https://www.linkedin.com/in/anapaulaalthoff/).<br>
 
-<br>PS: um dos meus e-mails principais não estava configurado e minhas contribuições não estavam aparecendo. Mas arrumei isso há pouco tempo e voltaram a aparecer constribuições.<br>
+<br>PS: um dos meus e-mails principais não estava configurado e minhas contribuições não estavam aparecendo. Mas arrumei isso há pouco tempo e voltaram a aparecer contribuições.<br>
 
 ##
 
