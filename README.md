@@ -11,7 +11,7 @@
 
 <div>
     <div>
-        <img src="https://github-readme-stats.vercel.app/api?username=anaalthoff&hide=contribs,issues&show_icons=true&theme=radical&hide_rank=true" alt="Anaalthoff's GitHub stats" style="height: 160px;>
+        <img src="https://github-readme-stats.vercel.app/api?username=anaalthoff&hide=issues,contribs&show_icons=true&theme=radical&hide_rank=true" alt="Anaalthoff's GitHub stats" style="height: 160px;>
     </div>
     <div>
         <a href="https://github.com/anaalthoff/github-readme-stats">
