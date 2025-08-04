@@ -15,7 +15,7 @@
     </div>
     <div>
         <a href="https://github.com/anaalthoff/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaalthoff&layout=compact&langs_count=8&theme=radical" alt="Top Langs" style="height: 160px;">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaalthoff&layout=compact&langs_count=20&theme=radical" alt="Top Langs" style="height: 160px;">
         </a>
     </div>
 </div>
